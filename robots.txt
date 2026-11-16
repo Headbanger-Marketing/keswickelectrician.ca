@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://keswickelectrician.ca/sitemap-index.xml
